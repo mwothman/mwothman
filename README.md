@@ -6,12 +6,12 @@
 
 ---
 
-### 👋 Hi, I'm Mohamed Othman
+### Hello, I'm Mohammed Wahid
 
-🚀 Mobile & Backend Developer passionate about building clean, scalable apps.  
-📱 Specializing in **Swift**, **Flutter**, and **Laravel**.  
-🌍 Always learning, always shipping.  
-💬 Feel free to reach out — I'm open to collaborations and opportunities!
+Mobile & Backend Developer passionate about building clean, scalable apps.  
+Specializing in **Swift**, **Flutter**, and **Laravel**.  
+Always learning, always shipping.  
+Feel free to reach out — I'm open to collaborations and opportunities!
 
 ---
 
