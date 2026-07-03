@@ -9,7 +9,7 @@
 ### Hello, I'm Mohammed Wahid
 
 Mobile & Backend Developer passionate about building clean, scalable apps.  
-Specializing in **Swift**, **Flutter**, and **Laravel**.  
+Specializing in **Flutter**.  
 Always learning, always shipping.  
 Feel free to reach out — I'm open to collaborations and opportunities!
 
