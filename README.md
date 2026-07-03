@@ -6,9 +6,9 @@
 
 ---
 
-### Hello, I'm Mohammed Wahid
+### Hello, I'm Mohammed Wahid Othman
 
-Mobile & Backend Developer passionate about building clean, scalable apps.  
+Mobile App Developer passionate about building clean, scalable apps.  
 Specializing in **Flutter**.  
 Always learning, always shipping.  
 Feel free to reach out — I'm open to collaborations and opportunities!
