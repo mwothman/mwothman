@@ -54,7 +54,7 @@ Feel free to reach out — I'm open to collaborations and opportunities!
     <img alt="mwothman's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mwothman?cardType=level-alternate&theme=dark&preferLogin=false" height="150" />
   </a>
   <img src="https://streak-stats.demolab.com?user=mwothman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwothman&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://ghchart.rshah.org/e05d44/mwothman" width="800" alt="mwothman's contribution graph" />
 </div>
 
 ---
